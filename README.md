@@ -1,7 +1,9 @@
 # Basic-Flag-Detector
 
 Basic Flag Detector (Mexico, U.S, Pakistan)
- A project for training and testing image classification models on NVIDIA Jetson Nano.
+
+
+ The model uses trained the algorithim and testing image classification models on the NVIDIA Jetson Nano.
 
  Running this Project
  1. Testing the Model:
